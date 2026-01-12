@@ -524,7 +524,8 @@ while len(two) < 100:
     num2 = random.randint(100, 999)
     if num2 not in two:
         two.append(num2)
-
+print(one)
+print(two)
 
 
 
