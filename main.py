@@ -526,9 +526,4 @@ while len(two) < 100:
         two.append(num2)
 print(one)
 print(two)
-
-
-
-    # un_one = set(one) # set инструмент проверки / удаления повторов
-    # un_two = set(two) # set инструмент проверки / удаления повторов
-    # print(un_one, un_two)
+print("hi")
