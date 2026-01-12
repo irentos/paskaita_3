@@ -525,3 +525,6 @@ while len(two) < 100:
     if num2 not in two:
         two.append(num2)
 
+
+
+
